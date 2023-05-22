@@ -5,7 +5,7 @@ It was created as part of the [Code First Girls](https://codefirstgirls.com/) Py
 This was an 8 week course that taught us how to code with Python. We had to create a final project and present it. 
 
   
-You can read the Project Brief [here]().
+You can read the Project Brief [here](https://github.com/Rclarkeweb/Pokemon-Top-Trumps/blob/main/Project%20Brief.txt).
 
 ## Tech used
 
